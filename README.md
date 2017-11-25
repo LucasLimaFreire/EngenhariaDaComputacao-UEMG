@@ -1,4 +1,2 @@
-# EngenhariaDaComputacao-UEMG
-Engenharia da Computação - UEMG ITUIUTABA
-
+# Engenharia Da Computacao UEMG ITUIUTABA
 # Documentos Importantes!
